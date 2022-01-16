@@ -1,4 +1,4 @@
-# Roupas-Sustentaveis
+# Moda Sustentável
 ###### Vista a sustentabilidade
 
 ## Propósito
@@ -17,6 +17,7 @@ O Que Fazemos?
 Trazemos a você roupas de marcas que se responsabilizam pelas emissões de dióxido de carbono neutralizando o CO2 emitido ou reciclando outras roupas.
 Dê uma olhada na nossa variedade de roupas.
 
-Roupas:
+### Roupas:
 
-Parceiros:
+### Parceiros:
+Conheça nossos parceiros.
